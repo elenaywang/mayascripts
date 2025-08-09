@@ -1,7 +1,10 @@
-# created based on the Python For Maya: Artist Friendly Programming course on Udemy by Dhruv Govil
-# link to Udemy course: https://www.udemy.com/course/python-for-maya
+# Created based on the Python For Maya: Artist Friendly Programming course on Udemy by Dhruv Govil
+# Link to Udemy course: https://www.udemy.com/course/python-for-maya
 
-# last revised: 2024/07/22
+# Last revised: 2024/07/22
+
+# Description: This script procedurally generates geometries in the shape of a gear.
+# You can specify the number of teeth that the gear should have.
 
 
 from maya import cmds

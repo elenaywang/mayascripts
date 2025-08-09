@@ -1,7 +1,10 @@
-# created based on the Python For Maya: Artist Friendly Programming course on Udemy by Dhruv Govil
-# link to Udemy course: https://www.udemy.com/course/python-for-maya
+# Created based on the Python For Maya: Artist Friendly Programming course on Udemy by Dhruv Govil
+# Link to Udemy course: https://www.udemy.com/course/python-for-maya
 
-# last revised: 2024/08/09
+# Last revised: 2024/08/09
+
+# Description: This script provides a basic window UI that can be reused for multiple scripts.
+# Right now, this script is set up to create the UI for a gear creator tool in conjunction with the gearClassCreator script.
 
 
 from maya import cmds

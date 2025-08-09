@@ -1,7 +1,10 @@
-# created based on the Python For Maya: Artist Friendly Programming course on Udemy by Dhruv Govil
-# link to Udemy course: https://www.udemy.com/course/python-for-maya
+# Created based on the Python For Maya: Artist Friendly Programming course on Udemy by Dhruv Govil
+# Link to Udemy course: https://www.udemy.com/course/python-for-maya
 
-# last revised: 2024/06/29
+# Last revised: 2024/06/29
+
+# Description: This script renames objects within a Maya scene for easy identification
+# by appending a suffix that specifies what type of object it is.
 
 
 from maya import cmds
